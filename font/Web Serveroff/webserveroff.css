@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Web Serveroff';
+    src: local('Web Serveroff'), local('WebServeroff'), url('webserveroff.woff2') format('woff2'), url('webserveroff.woff') format('woff'), url('webserveroff.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Web Serveroff';
+    src: local('Web Serveroff Italic'), local('WebServeroff-Italic'), url('webserveroffitalic.woff2') format('woff2'), url('webserveroffitalic.woff') format('woff'), url('webserveroffitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
