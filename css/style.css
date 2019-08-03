@@ -1,0 +1,13 @@
+/*@font-face{
+    font-family: 'OpenSans';
+    src: url(../font/OpenSans.ttf);
+}*/
+
+h1 {
+    font-family: 'OpenSans', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    font-style: italic;
+    color: #192b59;
+    text-transform: capitalize;
+} 
