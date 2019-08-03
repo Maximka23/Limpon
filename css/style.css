@@ -2,12 +2,75 @@
     font-family: 'OpenSans';
     src: url(../font/OpenSans.ttf);
 }*/
+p{
+    font-family: 'OpenSans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #7581a1;
+    line-height: 26px;
+}
+
+a{
+    font-family: 'OpenSans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #1085e4;
+    text-decoration-line: none;
+    text-transform: capitalize;
+}
 
 h1 {
     font-family: 'OpenSans', sans-serif;
-    font-size: 60px;
+    font-size: 80px;
     font-weight: 600;
-    font-style: italic;
     color: #192b59;
     text-transform: capitalize;
 } 
+
+.nav{
+    font-family: 'OpenSans', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: #6e7ea9;
+    text-transform: uppercase;
+}
+
+.btn-start{
+    color: #fff;
+    font-weight: 400;
+    background-color: #1085e4;
+    text-decoration-line: none;
+    text-transform: uppercase;
+}
+
+.btn-learn-header{
+    color: #7e8bae;
+    background-color: #cbdbe8;
+}
+
+.grid h2{
+    font-family: 'OpenSans', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #192b59;
+    text-transform: capitalize;
+}
+
+.grid h2 span{
+    font-family: 'OpenSans', sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    display: block;
+    color: #1085e4;
+    text-transform: uppercase;
+}
+ 
+.grid-item{
+    color: #192b59;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+
+
