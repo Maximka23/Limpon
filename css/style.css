@@ -2,7 +2,11 @@
     font-family: 'OpenSans';
     src: url(../font/OpenSans.ttf);
 }*/
-p{
+
+a + ul{
+    color: red;
+}
+body{
     font-family: 'OpenSans', sans-serif;
     font-size: 16px;
     font-weight: 400;
